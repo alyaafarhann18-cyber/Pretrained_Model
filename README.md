@@ -1,4 +1,4 @@
-# Bahrain Restaurant Review Analyzer — Pretrained Model Challenge
+# 📋Bahrain Restaurant Review Analyzer — Pretrained Model Challenge
  
 ## Problem Definition
 Restaurants in Bahrain wants to automatically understand visitor
