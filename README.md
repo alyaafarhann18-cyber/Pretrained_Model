@@ -9,7 +9,7 @@ Built as part of the **Pretrained Model Challenge lab** (General Assembly Data S
 
 
 ##
-## **Launch the app:**
+ **Launch the app:**
 
 https://jewelrysearch-ayeqy6wf7bypenubr7yu48.streamlit.app/
 
