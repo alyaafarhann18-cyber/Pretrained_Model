@@ -22,7 +22,7 @@ def load_models():
  
  
 st.title("📋 Bahrain Bites Analyzer")
-st.caption("Paste a review in English or Arabic — pretrained Hugging Face models do the rest.")
+st.caption("Paste a review in English or Arabic")
  
 text = st.text_area("Review text", placeholder="الأكل زين بس الخدمة شوي بطيئة...", height=100)
  
